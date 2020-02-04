@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Bestony <best.tony@foxmail.com>",
+  "license": "MIT",
   "dependencies": {
     "tcb-js-sdk": "^1.3.7"
   }
